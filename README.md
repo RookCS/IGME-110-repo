@@ -3,7 +3,7 @@
 This is my 110 repo where I will put notes and code.
 
 ## About Me
-My name is **Rook Pusey**. I am a *student* at *RIT*.
+My name is **Rook**. I am a *student* at *RIT*.
 
 ### Things I like:
 - Reading
