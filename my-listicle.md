@@ -1,7 +1,5 @@
 # Best Boardgames
 
----
-
 ## Long Games:
 1. [Root](https://ledergames.com/products/root-a-game-of-woodland-might-and-right?srsltid=AU7gw4XOPPA_6-NkGNAJvSUQDZtbG06zckUsoX0FeyWmbDynyPqSspsf)
 2. [Scythe](https://store.stonemaiergames.com/products/scythe?srsltid=AU7gw4VpI0442Uv3SUcxY-HtRIWtroWAxghrZYOyj87sjxjOf-pUfFC7)
