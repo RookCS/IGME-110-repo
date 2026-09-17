@@ -13,9 +13,9 @@ Most of these games will take **at least an hour**, some **much longer**, depend
 
 ### Board Game Covers
 
-!(Root Cover)[https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__opengraph/img/lnl-mnvbEge_7gtTD-sCxoI5NhY=/0x170:2048x1245/fit-in/1200x630/filters:strip_icc()/pic4254509.jpg]
+![Root Cover](https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__opengraph/img/lnl-mnvbEge_7gtTD-sCxoI5NhY=/0x170:2048x1245/fit-in/1200x630/filters:strip_icc()/pic4254509.jpg)
 
-!(Scythe Cover)[https://www.shutupandsitdown.com/wp-content/uploads/2019/03/77262db1c4346567ab191e5580543a57.jpg]
+![Scythe Cover](https://www.shutupandsitdown.com/wp-content/uploads/2019/03/77262db1c4346567ab191e5580543a57.jpg)
 
 ### Required emojis?
 
